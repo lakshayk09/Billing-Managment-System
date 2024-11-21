@@ -1,6 +1,7 @@
 # Billing-Managment-System using PHP and MySQL (local database)
 
-How to run:-  
+How to run:-   
+1) Extract the zip file in '~path~/xampp/htdocs' folder   
 1) Open Xampp and start mysql and apache server.  
 2) Go to 'localhost/phpmyadmin' url and create a new database named 'billing-mgt-system', as mentioned in dbcon.php file   
 3) Import sql file from 'DATABASE FILE' folder, to initialize tables in the database    
